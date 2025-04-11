@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Club de Lectura Juvenil</title>
+  <style>
+    body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 0; background-color: #f9f9f9; }
+    header { background-color: #4CAF50; color: white; padding: 20px 40px; text-align: center; }
+    nav { background-color: #333; padding: 10px; text-align: center; }
+    nav a { color: white; margin: 0 15px; text-decoration: none; }
+    nav a:hover { text-decoration: underline; }
+    section { padding: 30px; }
+    footer { background-color: #ddd; text-align: center; padding: 10px; margin-top: 20px; }
+    .seccion { margin-bottom: 40px; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Club de Lectura Juvenil</h1>
+  <p>Fomentando el amor por la lectura entre los jóvenes</p>
+</header>
+
+<nav>
+  <a href="#inicio">Inicio</a>
+  <a href="#objetivos">Objetivos</a>
+  <a href="#fases">Fases del Proyecto</a>
+  <a href="#colaboradores">Colaboradores</a>
+  <a href="#galeria">Galería</a>
+  <a href="#contacto">Contacto</a>
+</nav>
+
+<section id="inicio" class="seccion">
+  <h2>Inicio</h2>
+  <p>Este proyecto busca incentivar la lectura entre los jóvenes mediante un espacio participativo donde puedan compartir libros, reflexiones y aprendizajes de manera divertida y significativa.</p>
+</section>
+
+<section id="objetivos" class="seccion">
+  <h2>Objetivos y Justificación</h2>
+  <p>Objetivo General: Fomentar el gusto por la lectura mediante dinámicas creativas y colaborativas que impulsen el desarrollo de la comprensión lectora y pensamiento crítico.</p>
+  <p>Justificación: Ante la baja práctica lectora entre jóvenes, este club busca ser un punto de encuentro cultural, formativo y motivacional que fortalezca competencias clave y vínculos sociales.</p>
+</section>
+
+<section id="fases" class="seccion">
+  <h2>Fases del Proyecto</h2>
+  <ul>
+    <li>Análisis de mercado y necesidades</li>
+    <li>Comparación de costos y diseño</li>
+    <li>Prototipo inicial y pruebas</li>
+    <li>Ajustes finales</li>
+    <li>Lanzamiento del club de lectura</li>
+  </ul>
+</section>
+
+<section id="colaboradores" class="seccion">
+  <h2>Colaboradores y Recursos</h2>
+  <p>Participan facilitadores de lectura, diseñadores de actividades, promotores culturales y voluntarios. Se requieren recursos como libros, espacio físico, conexión a internet, carteles digitales y materiales de difusión.</p>
+</section>
+
+<section id="galeria" class="seccion">
+  <h2>Galería</h2>
+  <p>Aquí compartiremos fotos, videos y testimonios de los participantes del club.</p>
+</section>
+
+<section id="contacto" class="seccion">
+  <h2>Contacto</h2>
+  <p>¿Quieres unirte o colaborar? Escríbenos a: <strong>clubdelecturajuvenil@email.com</strong></p>
+</section>
+
+<footer>
+  <p>&copy; 2025 Club de Lectura Juvenil. Todos los derechos reservados.</p>
+</footer>
+
+</body>
+</html>
